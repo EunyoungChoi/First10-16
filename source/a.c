@@ -10,4 +10,5 @@ printf();
 }
 
 int foo_cc(int h){
+my_new_func();
 }
